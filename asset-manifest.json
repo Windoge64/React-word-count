@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-word-count/static/css/main.073c9b0a.css",
-    "main.js": "/react-word-count/static/js/main.74b95bef.js",
-    "static/js/787.7f320c1d.chunk.js": "/react-word-count/static/js/787.7f320c1d.chunk.js",
-    "index.html": "/react-word-count/index.html",
-    "main.073c9b0a.css.map": "/react-word-count/static/css/main.073c9b0a.css.map",
-    "main.74b95bef.js.map": "/react-word-count/static/js/main.74b95bef.js.map",
-    "787.7f320c1d.chunk.js.map": "/react-word-count/static/js/787.7f320c1d.chunk.js.map"
+    "main.css": "/React-word-count/static/css/main.073c9b0a.css",
+    "main.js": "/React-word-count/static/js/main.a83864f3.js",
+    "static/js/787.7f320c1d.chunk.js": "/React-word-count/static/js/787.7f320c1d.chunk.js",
+    "index.html": "/React-word-count/index.html",
+    "main.073c9b0a.css.map": "/React-word-count/static/css/main.073c9b0a.css.map",
+    "main.a83864f3.js.map": "/React-word-count/static/js/main.a83864f3.js.map",
+    "787.7f320c1d.chunk.js.map": "/React-word-count/static/js/787.7f320c1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.74b95bef.js"
+    "static/js/main.a83864f3.js"
   ]
 }
